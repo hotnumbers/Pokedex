@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="actionbarTitle">口袋妖怪图鉴</string>
+    <string name="namePikachu">皮卡丘</string>
+    <string name="nameBulbasaur">妙蛙种子</string>
+    <string name="nameCharmander">小火龙</string>
+    <string name="nameSquirtle">杰尼龟</string>
+    <string name="typeElectric">电系</string>
+    <string name="typeFire">火系</string>
+    <string name="typeGrass">草系</string>
+    <string name="typeWater">水系</string>
+    <string name="categoryMouse">鼠类</string>
+    <string name="categorySeed">种子类</string>
+    <string name="categoryLizard">蜥蜴类</string>
+    <string name="categoryTurtle">龟类</string>
+    <string name="customName">给它取个名字吧！</string>
+    <string name="collect">收藏？</string>
+    <string name="picture_pokemon">口袋妖怪图片</string>
+    <string name="setting">设置</string>
+    <string name="custom_name">自定义名称</string>
+</resources>

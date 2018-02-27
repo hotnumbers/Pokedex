@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="actionbarTitle">Pokedex</string>
+    <string name="namePikachu">Pikachu</string>
+    <string name="nameBulbasaur">Bulbasaur</string>
+    <string name="nameCharmander">Charmander</string>
+    <string name="nameSquirtle">Squirtle</string>
+    <string name="typeElectric">Electric</string>
+    <string name="typeFire">Fire</string>
+    <string name="typeGrass">Grass</string>
+    <string name="typeWater">Water</string>
+    <string name="categoryMouse">Mouse</string>
+    <string name="categorySeed">Seed</string>
+    <string name="categoryLizard">Lizard</string>
+    <string name="categoryTurtle">Turtle</string>
+    <string name="next" translatable="false">next</string>
+    <string name="myLayout" translatable="false">myLayout</string>
+    <string name="myLayout_land" translatable="false">myLayout_land</string>
+    <string name="customName">Give It A Name!</string>
+    <string name="collect"> Collect?</string>
+    <string name="picture_pokemon">Pokemon Pictures</string>
+    <string name="setting">Settings</string>
+    <string name="custom_name">Custom Name</string>
+</resources>
